@@ -2,6 +2,12 @@
 
 A powerful and feature-rich todo application built with Go and Next.js, featuring a clean architecture, RESTful API, and MongoDB for data persistence. The project includes both a backend API and a modern web client interface.
 
+<!-- add preview image (local image) -->
+[![Preview](./client/public/showcase.png)](https://github.com/yourusername/advanced-todo-using-go)
+
+
+
+
 ## 🚀 Features
 
 - **CRUD Operations**: Create, Read, Update, and Delete todos
